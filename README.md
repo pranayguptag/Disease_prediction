@@ -11,11 +11,9 @@ A web application that predicts potential diseases based on user-inputted sympto
 - **User-Friendly Interface**: Intuitive design for easy navigation and interaction.
 - **Informative Descriptions**: Detailed information about predicted diseases to enhance user understanding.
 
-## Demo
+## ScreemShot
 
-![App Screenshot](static/image.png)
-
-*Replace the above image path with an actual screenshot of your application.*
+![App Screenshot](static/image.png)
 
 ## Installation
 
